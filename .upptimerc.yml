@@ -28,8 +28,8 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Wsparcie
+      href: https://discord.gg/kEkWZssHa5
 
 i18n:
   activeIncidents: Aktywne zdarzenia
@@ -60,7 +60,7 @@ i18n:
   ms: ms
   loading: Ładowanie
   navGitHub: GitHub
-  footer: Powered by [Upptime](https://upptime.js.org)
+  footer:
   rateLimitExceededTitle: Przekroczony limit żądań
   rateLimitExceededIntro: Przekroczyłeś liczbę żądań, które możesz wykonać w ciągu godziny, więc będziesz musiał poczekać, zanim ponownie uzyskasz dostęp do tej witryny. Alternatywnie możesz dodać swój GitHub Personal Access Token, aby nadal korzystać z tej witryny.
   rateLimitExceededWhatDoesErrorMean: Co oznacza ten błąd?
