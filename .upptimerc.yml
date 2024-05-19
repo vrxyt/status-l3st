@@ -19,7 +19,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /status-l3st
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/vrxyt/status-l3st/master/assets/logo.svg
   name: Status L3ST
   introTitle: "**STATUS.L3ST.PL**"
   introMessage: Monitoring usług L3ST
@@ -50,41 +50,41 @@ i18n:
   overallUptimeTitle: Ogólny uptime
   averageResponseTime: "Średni czas odpowiedzi: $TIMEms"
   averageResponseTimeTitle: Średni czas odpowiedzi
-  sevelDayResponseTime: 7-day response time
-  responseTimeMs: Response time (ms)
-  up: Up
-  down: Down
-  degraded: Degraded
+  sevelDayResponseTime: Średni czas odpowiedzi z ost. tygodnia
+  responseTimeMs: Czas odpowiedzi (ms)
+  up: Aktywny
+  down: Offline
+  degraded: Zniszczony
   ms: ms
-  loading: Loading
+  loading: Ładowanie
   navGitHub: GitHub
-  footer: This page is [open source]($REPO), powered by [Upptime](https://upptime.js.org)
-  rateLimitExceededTitle: Rate limit exceeded
-  rateLimitExceededIntro: You have exceeded the number of requests you can do in an hour, so you'll have to wait before accessing this website again. Alternately, you can add a GitHub Personal Access Token to continue to use this website.
-  rateLimitExceededWhatDoesErrorMean: What does this error mean?
-  rateLimitExceededErrorMeaning: This website uses the GitHub API to access real-time data about our websites' status. By default, GitHub allows each IP address 60 requests per hour, which you have consumed.
-  rateLimitExceededErrorHowCanFix: How can I fix it?
-  rateLimitExceededErrorFix: You can wait for another hour and your IP address' limit will be restored. Alternately, you can add your GitHub Personal Access Token, which gives you an additional 5,000 requests per hour.
-  rateLimitExceededGeneratePAT: Learn how to generate a Personal Access Token
-  rateLimitExceededHasSet: You have a personal access token set.
-  rateLimitExceededRemoveToken: Remove token
+  footer: Powered by [Upptime](https://upptime.js.org)
+  rateLimitExceededTitle: Przekroczony limit żądań
+  rateLimitExceededIntro: Przekroczyłeś liczbę żądań, które możesz wykonać w ciągu godziny, więc będziesz musiał poczekać, zanim ponownie uzyskasz dostęp do tej witryny. Alternatywnie możesz dodać swój GitHub Personal Access Token, aby nadal korzystać z tej witryny.
+  rateLimitExceededWhatDoesErrorMean: Co oznacza ten błąd?
+  rateLimitExceededErrorMeaning: Ta witryna korzysta z interfejsu API GitHub, aby uzyskać dostęp do danych w czasie rzeczywistym na temat stanu naszych witryn. Domyślnie GitHub zezwala każdemu adresowi IP na 60 żądań na godzinę.
+  rateLimitExceededErrorHowCanFix: Jak mogę go naprawić?
+  rateLimitExceededErrorFix: Możesz poczekać kolejną godzinę, a limit Twojego adresu IP zostanie przywrócony. Alternatywnie możesz dodać swój GitHub Personal Access Token, który zapewnia dodatkowe 5000 żądań na godzinę.
+  rateLimitExceededGeneratePAT: Dowiedz się, jak wygenerować swój GitHub Personal Access Token
+  rateLimitExceededHasSet: Masz ustawiony osobisty token dostępu.
+  rateLimitExceededRemoveToken: Usuń token
   rateLimitExceededGitHubPAT: GitHub Personal Access Token
-  rateLimitExceededCopyPastePAT: Copy and paste your token
-  rateLimitExceededSaveToken: Save token
-  errorTitle: An error occurred
-  errorIntro: An error occurred in trying to get the latest status details.
-  errorText: You can try again in a few moments.
-  errorHome: Go to the homepage
-  pastScheduledMaintenance: Past Scheduled Maintenance
-  scheduledMaintenance: Scheduled Maintenance
-  scheduledMaintenanceSummaryStarted: Started at $DATE for $DURATION minutes
-  scheduledMaintenanceSummaryStarts: Starts at $DATE for $DURATION minutes
-  startedAt: Started at
-  startsAt: Starts at
+  rateLimitExceededCopyPastePAT: Skopiuj i wklej swój token
+  rateLimitExceededSaveToken: Zapisz token
+  errorTitle: Wystąpił błąd
+  errorIntro: Wystąpił błąd podczas próby uzyskania najnowszych informacji o stanie.
+  errorText: Możesz spróbować ponownie za kilka chwil.
+  errorHome: Przejdź do strony głównej
+  pastScheduledMaintenance: Poprzednie zaplanowane prace konserwacyjne
+  scheduledMaintenance: Zaplanowane prace konserwacyjne
+  scheduledMaintenanceSummaryStarted: Rozpoczęto $DATE na okres $DURATION minut
+  scheduledMaintenanceSummaryStarts: Rozpoczęcie $DATE na okres $DURATION minut
+  startedAt: Rozpoczęto
+  startsAt: Rozpoczęcie
   duration: Duration
-  durationMin: $DURATION minutes
-  incidentCompleted: Completed
-  incidentScheduled: Scheduled
+  durationMin: $DURATION minut
+  incidentCompleted: Ukończona
+  incidentScheduled: Zaplanowana
   duration24H: 24h
   duration7D: tydzień
   duration30D: miesiąc
