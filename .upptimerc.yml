@@ -23,8 +23,8 @@ status-website:
   favicon: https://panel.l3st.pl/storage/d3AtSO9x2kJrJZjFsYfTC58csa42WhdskSaDcCoG.ico
   theme: night
   name: Status L3ST
-  introTitle: "**STATUS.L3ST.PL**"
-  introMessage: Monitoring usług L3ST
+  introTitle: "**Status L3ST**"
+  introMessage: Sprawdź status stron i serwerów w czasie rzeczywistym dzięki naszej platformie monitorującej. L3ST zapewnia szybki i łatwy dostęp do informacji o wydajności i dostępności serwisów online.
   navbar:
     - title: Status
       href: /
