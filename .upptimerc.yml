@@ -20,6 +20,8 @@ status-website:
   cname: status.l3st.pl
   # baseUrl: /status-l3st
   logoUrl: https://raw.githubusercontent.com/vrxyt/status-l3st/master/assets/Vector-3.png
+  favicon: https://panel.l3st.pl/storage/d3AtSO9x2kJrJZjFsYfTC58csa42WhdskSaDcCoG.ico
+  theme: night
   name: Status L3ST
   introTitle: "**STATUS.L3ST.PL**"
   introMessage: Monitoring usług L3ST
