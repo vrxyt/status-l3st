@@ -6,3 +6,4 @@ sites: # List of endpoints to track
 assignees: # Users to assign downtime issues (optional)
   - AnandChowdhary
   name: Status L3ST # Status website title
+  baseUrl: /status-l3st
