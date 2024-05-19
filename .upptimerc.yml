@@ -2,7 +2,7 @@ owner: vrxyt # GitHub username
 repo: status-l3st # GitHub repository name
 sites: # List of endpoints to track
   - name: L3ST
-    url: https://l3st.pl
+    url: https://www.google.com
 assignees: # Users to assign downtime issues (optional)
   - AnandChowdhary
   name: Status L3ST # Status website title
