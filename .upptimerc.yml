@@ -19,7 +19,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /status-l3st
-  logoUrl: https://raw.githubusercontent.com/vrxyt/status-l3st/master/assets/logo.svg
+  logoUrl: https://raw.githubusercontent.com/vrxyt/status-l3st/master/assets/Frame 2-2.png
   name: Status L3ST
   introTitle: "**STATUS.L3ST.PL**"
   introMessage: Monitoring usług L3ST
