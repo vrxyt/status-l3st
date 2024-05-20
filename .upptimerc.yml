@@ -14,7 +14,7 @@ sites:
   - name: Mail L3ST
     url: https://mail.l3st.pl
   - name: Test powiadomień na discordzie!
-    url: https://test.l3st
+    url: https://test.l3st.1
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
