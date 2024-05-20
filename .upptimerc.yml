@@ -13,6 +13,8 @@ sites:
     port: 8080
   - name: Mail L3ST
     url: https://mail.l3st.pl
+  - name: Test powiadomień discord
+    url: https://thissitedoesnotexist.koj.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
