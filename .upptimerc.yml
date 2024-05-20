@@ -94,7 +94,7 @@ i18n:
   scheduledMaintenanceSummaryStarts: Rozpoczęcie $DATE na okres $DURATION minut
   startedAt: Rozpoczęto
   startsAt: Rozpoczęcie
-  duration: Duration
+  duration: Trwa
   durationMin: $DURATION minut
   incidentCompleted: Ukończona
   incidentScheduled: Zaplanowana
