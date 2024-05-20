@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 212,
-    "timeDay": 212,
-    "timeWeek": 212,
-    "timeMonth": 212,
-    "timeYear": 212,
+    "time": 208,
+    "timeDay": 208,
+    "timeWeek": 208,
+    "timeMonth": 208,
+    "timeYear": 208,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 605,
-    "timeDay": 605,
-    "timeWeek": 605,
-    "timeMonth": 605,
-    "timeYear": 605,
+    "time": 602,
+    "timeDay": 602,
+    "timeWeek": 602,
+    "timeMonth": 602,
+    "timeYear": 602,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 109,
-    "timeDay": 109,
-    "timeWeek": 109,
-    "timeMonth": 109,
-    "timeYear": 109,
+    "time": 108,
+    "timeDay": 108,
+    "timeWeek": 108,
+    "timeMonth": 108,
+    "timeYear": 108,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 687,
-    "timeDay": 687,
-    "timeWeek": 687,
-    "timeMonth": 687,
-    "timeYear": 687,
+    "time": 685,
+    "timeDay": 685,
+    "timeWeek": 685,
+    "timeMonth": 685,
+    "timeYear": 685,
     "dailyMinutesDown": {}
   },
   {
@@ -77,18 +77,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
     "slug": "test-powiadomien-discord",
     "status": "down",
-    "uptime": "1.61%",
-    "uptimeDay": "1.61%",
-    "uptimeWeek": "1.61%",
-    "uptimeMonth": "1.61%",
-    "uptimeYear": "1.61%",
+    "uptime": "0.15%",
+    "uptimeDay": "0.15%",
+    "uptimeWeek": "0.15%",
+    "uptimeMonth": "0.15%",
+    "uptimeYear": "0.15%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-20": 0
+      "2024-05-20": 4
     }
   }
 ]
